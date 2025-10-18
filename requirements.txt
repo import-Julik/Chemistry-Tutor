@@ -1,0 +1,7 @@
+streamlit==1.38.0
+chempy==0.9.0
+mendeleev==0.17.0
+pubchempy==1.0.4
+asteval==0.9.31
+python-dotenv==1.0.1
+requests==2.32.3
